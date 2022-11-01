@@ -1,8 +1,8 @@
--- Fursado
-
 {
 
  ["TestFlag"] = true,
  ["GOpen"] = false,
+ 
+ ["str"] = {102, 101, 100, 95, 24}
  
 }
