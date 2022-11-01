@@ -1,1 +1,8 @@
+-- Fursado
 
+{
+
+ ["TestFlag"] = true,
+ ["GOpen"] = false,
+ 
+}
